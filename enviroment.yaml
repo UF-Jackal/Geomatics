@@ -1,0 +1,4 @@
+name: Geomatics
+dependencies:
+  - numpy
+  - pandas
