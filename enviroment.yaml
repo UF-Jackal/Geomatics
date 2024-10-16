@@ -1,4 +1,6 @@
 name: Geomatics
+channels:
+- conda-forge
 dependencies:
   - numpy
   - pandas
